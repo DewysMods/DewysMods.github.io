@@ -1,11 +1,12 @@
 ---
 layout: page
-title: About me
-subtitle: My amazing coding skills
+title: About Me
+subtitle: My rubbish coding skills.
 ---
 
-My name is Cadiboo. I have the following qualities:
+Hey there! I'm Dewy, and I make these things:
 
-- I'm lucky with shotgun debugging
-
-Thats about it
+- Forge Mods
+- Hacked Clients
+- Minecraft Development Tools
+- Other Weird Minecraft Crap
