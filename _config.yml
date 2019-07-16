@@ -80,9 +80,9 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "cadiboodev@gmail.com"
+  email: "dewymoddev@gmail.com"
 #  facebook: daattali
-  github: Cadiboo
+  github: DewysMods
 #  twitter: daattali
 #  reddit: yourname
 #  google-plus: +DeanAttali
@@ -112,7 +112,7 @@ url-pretty: "Home"  # eg. "deanattali.com/beautiful-jekyll"
 # --- Web Statistics Section --- #
 
 # Fill in your Google Analytics gtag.js ID to track your website using gtag
-gtag: "UA-130580840-1"
+#gtag: "UA-130580840-1"
 
 # Fill in your Google Analytics ID to track your website using GA
 #google_analytics: ""
@@ -166,7 +166,7 @@ title-separator: "-"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+timezone: "Europe/London"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
