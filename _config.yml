@@ -24,10 +24,12 @@ description: A rinky-dink website for my Minecraft projects.
 # List of links in the navigation bar
 navbar-links:
   Projects:
-    - All Projects: "https://dewysmods.github.io/projects/"
-    - NoCubes: "https://cadiboo.github.io/projects/nocubes/"
-    - RenderChunk rebuildChunk Hooks: "https://cadiboo.github.io/projects/renderchunk-rebuildchunk-hooks/"
-    - WIPTech: "https://cadiboo.github.io/projects/wiptech/"
+    - All Projects: "https://dewysmods.github.io/projects/" # Everything.
+    - Initiative Mod: "https://dewysmods.github.io/projects/initmod/" # A Portal 2 themed Forge mod.
+    - HeadlessMC: "https://dewysmods.github.io/projects/headlessmc/" # A headless Minecraft client/server hybrid.
+    - Clyde: "https://dewysmods.github.io/projects/clyde/" # Modding API for hacked clients, similar to Minecraft Forge.
+    - MCIDE: "https://dewysmods.github.io/projects/mcide/" # IntelliJ IDE for Minecraft development.
+    - Snuk Client: "https://dewysmods.github.io/projects/snuk/" # Minecraft hacked client for use on anarchy servers.
   About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
