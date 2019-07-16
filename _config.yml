@@ -14,28 +14,17 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Cadiboo's Projects
+title: Dewy's Projects
 
 # Short description of your site
-description: The home of Cadiboo's Programming Endeavours!
+description: A rinky-dink website for my Minecraft projects.
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
-  Tutorials:
-    - All Tutorials: "https://cadiboo.github.io/tutorials/"
-    - 1.14.3: "https://cadiboo.github.io/tutorials/1.14.3/"
-    - Forge 1.14.3: "https://cadiboo.github.io/tutorials/1.14.3/forge/"
-    - 1.14.2: "https://cadiboo.github.io/tutorials/1.14.2/"
-    - Forge 1.14.2: "https://cadiboo.github.io/tutorials/1.14.2/forge/"
-    - Fabric 1.14.2: "https://cadiboo.github.io/tutorials/"
-    - 1.13.2: "https://cadiboo.github.io/tutorials/1.13.2/"
-    - Forge 1.13.2: "https://cadiboo.github.io/tutorials/1.13.2/forge/"
-    - 1.12.2: "https://cadiboo.github.io/tutorials/1.12.2/"
-    - Forge 1.12.2: "https://cadiboo.github.io/tutorials/1.12.2/"
   Projects:
-    - All Projects: "https://cadiboo.github.io/projects/"
+    - All Projects: "https://dewysmods.github.io/projects/"
     - NoCubes: "https://cadiboo.github.io/projects/nocubes/"
     - RenderChunk rebuildChunk Hooks: "https://cadiboo.github.io/projects/renderchunk-rebuildchunk-hooks/"
     - WIPTech: "https://cadiboo.github.io/projects/wiptech/"
