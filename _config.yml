@@ -26,6 +26,7 @@ navbar-links:
   Projects:
     - All Projects: "https://dewysmods.github.io/projects/" # Everything.
     - Initiative Mod: "https://dewysmods.github.io/projects/initmod/" # A Portal 2 themed Forge mod.
+    - Celestia: "https://dewysmods.github.io/projects/celestia/" # The next generation's space mod/
     - HeadlessMC: "https://dewysmods.github.io/projects/headlessmc/" # A headless Minecraft client/server hybrid.
     - Clyde: "https://dewysmods.github.io/projects/clyde/" # Modding API for hacked clients, similar to Minecraft Forge.
     - MCIDE: "https://dewysmods.github.io/projects/mcide/" # IntelliJ IDE for Minecraft development.
@@ -36,6 +37,9 @@ navbar-links:
     - Learn markdown: "http://www.markdowntutorial.com/"
     - GitHub Pages: "https://pages.github.com/"
     - Site Source: "https://github.com/DewysMods/dewysmods.github.io"
+  Services:
+    - Reverse Engineering: "https://dewysmods.github.io/services/reveng"
+    - Maven Hosting: "https://dewysmods.github.io/services/maven"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
